@@ -75,4 +75,4 @@ https://image.tmdb.org/t/p/w370_and_h556_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
 **Question:** How would you optimize image loading and caching in the React Native Movie App to ensure efficient resource utilization and improved performance?
 
 
-**Please complete the task and send your solution along with your answer to the technical question To this email[M.abuamra@had.sa]***
+**Please complete the task and send your solution along with your answer to the technical question To this email( M.abuamra@had.sa )**
