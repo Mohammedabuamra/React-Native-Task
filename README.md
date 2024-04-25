@@ -11,15 +11,15 @@ This React Native mobile app displays information about movies from various cate
    -   Divided into two sections: Main Movie (First Movie) and Remaining Movies.
     -   Main Movie section includes a poster, name, genres, and release year.
     -   Utilizes a provided example design for layout consistency.
+    -   
+    -   Use this image as design  [click Here](https://i.ibb.co/ws9bM13/TMA-TESt.png)    -   
+      
+
 - **"See All" Page:**
     -   Displays all movies in a grid layout.
     -   Implements infinite scroll functionality.
     -   Shows movie posters, titles, and genres for comprehensive browsing.
-
-
-
-# Home Page UI
-You can view the image by clicking [here](https://i.ibb.co/ws9bM13/TMA-TESt.png) or by copying and pasting the following URL into your browser's address 
+    -   Use your own design in this page
 
 
 
