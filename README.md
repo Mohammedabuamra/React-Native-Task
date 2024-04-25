@@ -10,8 +10,7 @@ This React Native mobile app displays information about movies from various cate
 - **Home Page:**
    -   Divided into two sections: Main Movie (First Movie) and Remaining Movies.
     -   Main Movie section includes a poster, name, genres, and release year.
-    -   Utilizes a provided example design for layout consistency.
-    -   
+    -   Utilizes a provided example design for layout consistency. 
     -   Use this image as design  [click Here](https://i.ibb.co/ws9bM13/TMA-TESt.png)    -   
       
 
